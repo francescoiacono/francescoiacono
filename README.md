@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @francescoiacono
-- 👀 I’m interested in front-end development and games programming.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on websites and games.
+- 👀 I’m interested in front-end development and games programming
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on websites and games
 - 📫 How to reach me contact@francescoiacono.co.uk
 
 <!---
